@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently  diving in c++.<br>👯 I’m looking to collaborate on projects.<br>🌱 Intrested to explore new objectives.<br>⚡ Always feel free to discuss.
 # 💫 My Skills:
-⚡ C-language.<br>⚡ C++.<br>⚡ problem solving.<br>
+⚡ C-language.<br>⚡ C++.<br>⚡ problem solving.<br> 
 
 
 
