@@ -105,9 +105,6 @@ Tools        →   Git  ·  Linux  ·  Figma  ·  VS Code  ·  Postman
 
 </div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LUCKYHARSHA001&theme=minimal&hide_border=true&area=true" />
-</div>
 
 ---
 
