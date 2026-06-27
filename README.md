@@ -18,9 +18,9 @@
 
 [![Portfolio](https://img.shields.io/badge/◈_Portfolio-000000?style=flat-square&logoColor=white)](https://ak-portfolioo.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-0A66C2?style=flat-square&logoColor=white)](https://linkedin.com/in/harshaalla7)
-[![LeetCode](https://img.shields.io/badge/◈_LeetCode_400%2B-FFA116?style=flat-square&logoColor=black)](https://leetcode.com/LUCKYHARSHA001)
-[![CodeChef](https://img.shields.io/badge/◈_CodeChef_2★-5B4638?style=flat-square&logoColor=white)](https://www.codechef.com/users/LUCKYHARSHA001)
-![Visitor Count](https://komarev.com/ghpvc/?username=LUCKYHARSHA001&color=555&style=flat-square&label=profile+views)
+[![LeetCode](https://img.shields.io/badge/◈_LeetCode_400%2B-FFA116?style=flat-square&logoColor=black)](https://leetcode.com/u/harshaalla/)
+[![CodeChef](https://img.shields.io/badge/◈_CodeChef_2★-5B4638?style=flat-square&logoColor=white)](https://www.codechef.com/users/harshaalla)
+[![Profile views](https://komarev.com/ghpvc/?username=LUCKYHARSHA001&color=blue)](https://github.com/LUCKYHARSHA001)
 
 </div>
 
